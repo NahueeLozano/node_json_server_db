@@ -1,0 +1,55 @@
+{
+    "profesores":[
+        {
+            "nombre":"nahuel ",
+            "apellido":"loznao",
+            "materias": [
+                {
+                    "nombre":"node.js"
+                },
+                {
+                    "nombre": "reactJs"
+                },
+                {
+                    "nombre": "javaScript"
+                }
+            ]
+
+        }
+    ],
+    
+        "alumnos":[
+            {
+                "nombre":"andrea",
+                "apellido":"quintanilla",
+                "promedio":10
+            },
+            {
+                "nombre":"leo",
+                "apellido": "messi",
+                "promedio": 8.2
+            }
+        ],
+        "curso":[
+            {
+                "nombre": "node.js",
+                "duracion":7,
+                "dificultad":"intermedio"
+            },
+            {
+                "nombre":"reactJs",
+                "duracion": 8,
+                "dificultad" :"intermedia"
+            },
+            {
+                "nombre":"javaScript",
+                "duracion":8,
+                "dificultad":"alta"
+            }
+        ]
+
+
+    
+        
+}    
+
